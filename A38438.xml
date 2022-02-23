@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's standard, to which all the lovers of a just and speedy settlement, by a safe parliamentary authority, in city, country and army, are desired to repair, or, A remonstrance of the lovers of the commonwealth, inhabitants of Hampshire delivered to the council of the officers of the army, November 21, 1659.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38438</idno>
+            <idno type="STC">Wing E3054</idno>
+            <idno type="STC">ESTC R2689</idno>
+            <idno type="EEBO-CITATION">11781985</idno>
+            <idno type="OCLC">ocm 11781985</idno>
+            <idno type="VID">49125</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49125)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 530:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's standard, to which all the lovers of a just and speedy settlement, by a safe parliamentary authority, in city, country and army, are desired to repair, or, A remonstrance of the lovers of the commonwealth, inhabitants of Hampshire delivered to the council of the officers of the army, November 21, 1659.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Livewel Chapman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49125:1" rendition="simple:additions"/>
+            <p>England's Standard: To which all the Lovers of A juſt and ſpeedy SETTLEMENT, BY A ſafe Parliamentary AUTHORITY, In City, Country and Army, are deſired to repair. OR, A REMONSTRANCE OF The Lovers of the COMMONWEALTH, Inhabitants of <hi>HAMPSHIRE.</hi> Delivered to The Council of the Officers of the Army, <hi>November</hi> 21. 1659.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Livewel Chapman,</hi> at the Crown in Popes-Head-Alley. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:49125:2"/>
+            <head>To the General Council of the Officers of the Army: <hi>The Remonſtrance of the cordial lovers of the Commonwealth, in<g ref="char:EOLhyphen"/>habitants of</hi> Hampſhire.</head>
+            <opener>SHEWETH,</opener>
+            <p>THat being very ſenſible that the Enemies of this Common<g ref="char:EOLhyphen"/>wealths peace and Safety are exceedingly lifted up in hopes and expectations that the preſent diſtractions will bring a<g ref="char:EOLhyphen"/>bout their long-deſired opportunity to introduce the Yoke and ty<g ref="char:EOLhyphen"/>rannical Government of the late Kings family; and finding alſo, to our great grief, that many that have heretofore been oppoſers of the ſame, through the ſubtilty and inſinuations of the ſaid Party, are rea<g ref="char:EOLhyphen"/>dy to comply with them, under pretence that there is no other poſ<g ref="char:EOLhyphen"/>ſibility of Settlement: We therefore judge our ſelves bound in duty to God, our Country and Poſterity, to manifeſt and declare, That our true and cordial affections are ſo fixed to the love and deſire of a firm and juſt Commonwealths Government, that no fears, ſufferings nor hardſhips ſhall (through the aſſiſtance of God) in the leaſt mea<g ref="char:EOLhyphen"/>ſure alter our reſolutions, but that we ſhall be ready with the hazard of our lives, and all that is near and dear unto us, to oppoſe both the open and private Enemies of the ſame: And we account it alſo our duty, as far as in us lies, to ſtrive that a period may be put to theſe long Diſtractions and Miſeries which thereby are fallen on the Nation, which as hitherto have been beneficial to none, but a few ambitious ſelf-ſeeking perſons; ſo we alſo viſibly ſee, never can nor will; and that unleſs the Lord in mercy be pleaſed to put a period to the ſame, we can expect no leſs then that a preſent total deſtruction will enſue, or at beſt a ſervile ſubmiſſion to the will &amp; pleaſures of them that ſhall be ſtrongeſt. For the prevention of which, we cannot in our judgements find any remedy under heaven, better, eaſier &amp; ſpeedier, then an unanimous agreement of the well-affected Party, on ſuch Principles of common good and ſafety, that may ſecure the Rights of all juſt intereſts. And to the end it may be obtained, we do in the bowels of pity and compaſſion to our poor, almoſt-ruin'd Coun<g ref="char:EOLhyphen"/>try, implore this from you, that finding by ſad experience the hearts of men are generally ſo baſe and corrupt, that there are few or none but are Enemies to the Liberty and Proſperity of their Country, (when they may enrich themſelves thereby) but onely for want of time and power; and that it's to be feared, what men ſoever ſhall
+<pb n="3" facs="tcp:49125:2"/>come into the ſupreme Power or Authority, will make it their buſi<g ref="char:EOLhyphen"/>neſs (as heretofore) under fair pretences, to enrich themſelves, and perpetuate their ambitions deſignes, unleſs there be ſome ſure, firm and unalterable Limitations and Reſtrictions agreed on by the con<g ref="char:EOLhyphen"/>ſent of the people, to prevent the ſame: That therefore you will with all ſpeed and vigour joyn with us, to invite all the Lovers of their own and their Countries peace and ſafety, to centre in an A<g ref="char:EOLhyphen"/>greement (according to the ſubſtance of theſe following Heads) and that all thoſe that ſhall own, agree to, and ſubſcribe the ſame, ſhall be capable to be Electors or Elected for all future Repreſentatives, and none elſe: And that you will ſpeedily after the ſigning the ſame, deſire and perſwade them to chuſe their Members; that ſo by a viſi<g ref="char:EOLhyphen"/>ble and ſafe Authority, the Nation may be ſecured from the power and deſignes of forraign and domeſtick enemies; and all Intereſts that are uſeleſs, oppreſſive, and deſtructive to the general good and juſt Liberty of the Nation, may be taken away.</p>
+            <list>
+               <item>1. <hi>That no perſon or perſons whatſoever, on pain of High treaſon, ſhall aſſume or challenge to themſelves any power, right or intereſt in making or altering of Laws, but thoſe that ſhall be immediately elected and impower<g ref="char:EOLhyphen"/>ed by the people that ſhall enter into and own this Agreement.</hi>
+               </item>
+               <item>2. <hi>That it ſhall not be in the power of any Repreſentative to eſtabliſh any Government by a King, Single perſon, or Houſe of Lords; nor to con<g ref="char:EOLhyphen"/>tinue the Legiſlative power in themſelves, or make Laws for the continu<g ref="char:EOLhyphen"/>ation of it in others above the ſpace of two years together at the moſt, upon pain of the higheſt puniſhment that can be inflicted; that ſo every man may taſte of Subjection as well as Rule, and may be equally liable to the Laws that he ſhall make for others.</hi>
+               </item>
+               <item>3. <hi>That ſeeing it is not in the power of humane creatures to confer any ſpiritual gift or authority on their Repreſentatives, and that they can re<g ref="char:EOLhyphen"/>ceive no larger power then the people are capable to give them; that there<g ref="char:EOLhyphen"/>fore it is not nor ſhall be in the power of any Repreſentative to intermeddle with things ſpiritual or ſupernatural, nor to compel or inforce any perſon or perſons, directly or indirectly, by Law, againſt their own free-will and con<g ref="char:EOLhyphen"/>ſent, to pay to the maintenance of a National Miniſtery, but leave all peo<g ref="char:EOLhyphen"/>ple free to pay their own Paſtors and Miniſters, according to the infallible rule of the Goſpel, the practice of the Primitive times, and the preſent practice of many Reformed Churches in forraign parts. Provided never<g ref="char:EOLhyphen"/>theleſs, that it is not hereby intended or meant, that the Parliament ſhall be reſtrained from any power (in making Laws) to prohibit the profeſſion of any Religion not Christian, neither the publike profeſſion of Popery, which is
+<pb n="4" facs="tcp:49125:3"/>incorporated with the intereſt of a forraign power, inconſiſtent with publike ſafety and ſociety.</hi>
+               </item>
+               <item>4. <hi>That no publike Salary-man ſhall be capable to ſit in Parliament, nor during his ſeſſion there, ſhall be inveſted with any Salary-Office, nor ſhall have any of the publike Treaſure conferred on him, under any pretence whatſoever, on pain of high-Treaſon: (the place of an Ambaſſadour, and the charges thereon expended, onely excepted.)</hi>
+               </item>
+               <item>5. <hi>That the Logiſtative power ſhall be kept ſeparate and diſtinct from the Adminiſtrative power. That all Repreſentatives that ſhall be choſen by vertue and according to this Agreement, ſhall be and are hereby or<g ref="char:EOLhyphen"/>dained to be the Supreme Authority of the Nation to make and alter Laws, to make War and Peace, and to raiſe money for the ſame. Provided they act not againſt, nor endeavour to deſtroy or take away all or any of theſe five Fundamentals. And it is hereby agreed and declared, That what<g ref="char:EOLhyphen"/>ſoever perſon or perſons ſhall under any pretence whatſoever uſe power or force to diſſolve the ſaid Authority, whilſt it acts nothing againſt the five aforenamed Rules, or uſe force to deſtroy thoſe Laws which they ſhall make, ſhall be deemed and accounted Traytors for the ſame, and ſuffer puniſh<g ref="char:EOLhyphen"/>ment accordingly.</hi>
+               </item>
+            </list>
+            <p>By this way of Agreement, formerly practiſed in moſt Nations, when a former Government (through neceſſity, for their preſervati<g ref="char:EOLhyphen"/>on) hath been caſt off, we can (with the bleſſing of God) expect a ſpeedy and ſecure Settlement, to the content and benefit of all juſt men, and juſt intereſts; and alſo rationally hope for a reconciſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation of thoſe that are now exceedingly bent againſt the Settlement of a Commonwealth: and in the proſecution hereof, we ſhall with all a<g ref="char:EOLhyphen"/>lacrity joyn with you in the utmoſt hazards. But if you ſhall oppoſe the ſubſtance hereof, we cannot expect any ſure and laſting Settle<g ref="char:EOLhyphen"/>ment, neither can we ſee how you can clear your ſelves of the guilt of all the Bloud and Treaſure that hath been ſpent, or of the Miſe<g ref="char:EOLhyphen"/>ties which for want of ſuch a Settlement will inevitably enſue. However, we have diſcharged our duties, and leave the ſucceſs to God, who we are aſſured will not ſuffer his glory and his peoples good to be overthrown.</p>
+            <p>Now ſeeing theſe things we have here mentioned and deſired are of ſuch an high concernment, we are conſtrained, for the prevention of ſcandals and aſperſions which may be caſt on them or us, to ſhew theſe Reaſons for the ſame.</p>
+            <p>It cannot be denyed by any perſon that underſtands what the Go<g ref="char:EOLhyphen"/>vernment of this Nation was, That the King was pretendedly li<g ref="char:EOLhyphen"/>mited
+<pb n="5" facs="tcp:49125:3"/>and bounded by his Oath, to govern according to thoſe Laws that ſhould be made by the people, and that the Parliament was a Skreen between the Kings Prerogative, and the Peoples Liberties: but this proved to little purpoſe; for that he being a ſtanding power, and (as he pretended) unaccomptable for any thing he ſhould do, and had the power of conferring all places of profit &amp; honour on whom he pleaſed, he and his Court had generally ſuch an influence and in<g ref="char:EOLhyphen"/>tereſt in chuſing Parliaments, that ſeldom any conſiderable number, who were not his meer Creatures, were elected; and ſo by Parlia<g ref="char:EOLhyphen"/>ments, his own, and not the peoples intereſt was promoted: Or if he at any time found the Parliament endeavouring to bound his Prerogative, it was his practice preſently to diſſolve it. However, if there were Bounds and Reſtrictions put to the King, and that there was a power intended to bridle his deſignes: why ſhould any man plead for no bounds, neither of time, nor of power, to be put to the Parliament? When the King ruled, the Parliament was in<g ref="char:EOLhyphen"/>tended to be a Skreen between the Kings Prerogative, and the peo<g ref="char:EOLhyphen"/>ples Liberties; and ſhall we now have no Skreen between the Par<g ref="char:EOLhyphen"/>liaments power and will, and the Peoples liberties, proprieties and ſafeties? Shall they have power to raiſe what monies they pleaſe, and ſhare it amongſt themſelves? ſhall they ſet up (as of late) many great Salary-Offices, and keep pluralities of the beſt of them to them<g ref="char:EOLhyphen"/>ſelves? ſhall they have power to deſtroy men without a cauſe, and take their Eſtates to themſelves? We do not by any part of this Agreement tye up their hands from doing good, but onely from de<g ref="char:EOLhyphen"/>ſtroying us. And is not a Parliament free, that hath an abſolute power to do good, Unleſs they have alſo an abſolute unlimited power to do miſchief, and make Laws to protect themſelves there<g ref="char:EOLhyphen"/>in? ſurely this is ſuch an abſurdity, that none but a grand Impoſtor (that aimes chiefly at his own deſignes) can plead. Should any fu<g ref="char:EOLhyphen"/>ture Parliament act coutrary to the ſubſtance of all or any part of this Agreement, what rational unbyaſſed man can expect ſafety? If they can ſet up a ſingle perſon, why not <hi>Charles Stuart,</hi> as well as any other? If perpetuate the power in themſelves, or in any num<g ref="char:EOLhyphen"/>ber of perſons, why is it not better to have it in one? one Fa<g ref="char:EOLhyphen"/>mily will be at a cheaper rate made rich then many; men that are honeſt, and love their Countrie, may apoſtatize and prove enemies; which lamentable late experience ſufficiently hath taught us. Is it not better to make ſuch Laws that may bind the worſt and ſubtileſt heads from hurting us, then to be alwayes at the mercy of honeſt
+<pb n="6" facs="tcp:49125:4"/>men; which probably have appeared ſo, thereby to get an oppor<g ref="char:EOLhyphen"/>tunity to doe hurt to the purpoſe? If Parliaments may ſet up what form of Church-Diſcipline or Worſhip they judge beſt, why not Prelacy o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Popery, as well as Presbytery; and ſo conſequently a compulſive maintenance for the Miniſters of the ſame? Did not Parliaments in <hi>Edward</hi> the Sixth's Reign ſet up Prelacie, and own the Profeſſors thereof? And did not Parliaments (conſiſting of a great number of the ſame men) in Queen <hi>Maries</hi> dayes, eſtabliſh Popery, and make ſuch cruel bloody Laws, by which many Prote<g ref="char:EOLhyphen"/>ſtants were burned? this in theſe dayes is worth taking notice of, to prevent the like. The National Miniſtry that muſt be by compulſion provided for, ſurely at preſent is meant Presbytery, and their Adhe<g ref="char:EOLhyphen"/>rents; &amp; how Orthodox they are, let them by the heaps of their in<g ref="char:EOLhyphen"/>famous fawning Addreſſes, to the late ſingle perſon, be judged: and what they deſerve, let their Sermons, and the fruits of them in <hi>Che<g ref="char:EOLhyphen"/>ſhire</hi> and elſewhere, claim. If the publick maintenance ſhould be taken from them (as it was from the Prelacy) and conferred on the Miniſters and Paſtors of ſeparate Congregations, and none elſe, what a flood of Envie and Reproach would they caſt forth! But ſurely, con<g ref="char:EOLhyphen"/>ſidering what blood they have been guilty of, what deſperate perils they have often involved this Nation in, and how mercifully God hath preſerved it from their deſignes; they are not a peo<g ref="char:EOLhyphen"/>ple ſo to be feared, nor (in point of policy) ſo to be pleaſed, as ſome may pretend; unleſs the end of all ſucceſſes and victories muſt cen<g ref="char:EOLhyphen"/>ter in taking away the Eſtates of the Conquerors, to pleaſe and ſtrengthen the Conquered, that ſo at laſt they may be enabled to ſa<g ref="char:EOLhyphen"/>tiate themſelves with a cruel and bloody Revenge. However, we have not in any meaſure deſired any more Liberty of Conſcience, nor ſecurity of our Eſtates, but what may be equally due to them, if they have not been, nor ſhall not be guilty of the breach of the peace of the Nation. We claim no more then what is due to us by the Law of God and Nature, and we are bound in conſcience to our ſelves and Families to aſſure it. But at laſt, if notwithſtanding all this, nothing will pleaſe our Enemies, but Death, Baniſhment or Impriſonment, or denyal of our Religion; it behoveth us to prevent the ſame; and if they ſuffer in the end, they may juſtly blame their own obſtinacy for it. We heartily wiſh that all the Parliament, nay, all the Magiſtrates of the nation, were or may be nurſing Fathers, and nurſing Mothers to the Church of Chriſt, that they would cordially make it their work to relieve the poor, and cloath the naked Chri<g ref="char:EOLhyphen"/>ſtians,
+<pb n="7" facs="tcp:49125:4"/>and with the great Eſtates which they poſſeſs (and for which they muſt give an account) to take a delight in doing good. Let them do the work of Chriſt in the way of Chriſt, and not in or by the way of Antichriſt; for that is not required at their hands. Why we, by this Agreement, reſtrain publick Salary-men from ſitting in Parliament, we give this Reaſon, That experience hath taught us, that great damage hath and may ariſe thereby to the nation in gene<g ref="char:EOLhyphen"/>ral: to particularize: Thoſe people never think of leſſening, but encreaſing the number &amp; benefit of Offices; ſo that it often hath fal<g ref="char:EOLhyphen"/>len out, that Parliament-men by Salary-Offices, have yearly received many thouſands of pounds, when they have been non-reſident, and have not paid 100 <hi>l.</hi> yearly, to execute their place: this is the rea<g ref="char:EOLhyphen"/>ſon that vaſt unneceſſary ſums of the publick Treaſure have been con<g ref="char:EOLhyphen"/>ſumed, to the impoveriſhing of the Nation. We do not in the leaſt deny, but that there may be, and are many Salary-men both in the Army &amp; elſewhere, that are as able, &amp; may be as much confided in, as any people in the Nation; and we ſhould be glad that they might proceed in freeing their Country from captivity, and building of Laws or walls of ſafety about it; and that they, with <hi>Nehemiah,</hi> would not eat the bread of the Governour, for that the bondage is great: but that they ſhould be imployed in a double capacity, or ren<g ref="char:EOLhyphen"/>der void a certain ſafe principle for the nations eaſe, may be a pre<g ref="char:EOLhyphen"/>cedent of dangerous conſequence. And that Parliament men ought not to receive or ſhare among themſelves any of the publick Treaſure, is of abſolute neceſſity: had the long Parliament been reſtrained from it, as alſo from giving large unwarrantable gratuities, the na<g ref="char:EOLhyphen"/>tion had been ſome hundred thouſand pounds better then now it is; the ſouldiers had not been inforced to ſell their Arrears for little or nothing, the publick Faith-mony had been paid; and in all likely<g ref="char:EOLhyphen"/>hood, if they had been reſtrained from advantages to enrich them<g ref="char:EOLhyphen"/>ſelves, &amp; been bounded in their Seſſions to ſit but a ſhort time, they had made ſuch good Laws, and ſuch a ſure Foundation of Govern<g ref="char:EOLhyphen"/>ment, that might have ſecured the Nation and themſelves, and inga<g ref="char:EOLhyphen"/>ged the people in their affections to them, for the good they had re<g ref="char:EOLhyphen"/>ceived by them. Notwithſtanding all this, we know it is and will be the great cry of the implacable Royal Faction, both old and new, for a Free Parliament, choſen as formerly, without any Qualifica<g ref="char:EOLhyphen"/>tions, and to ſit and make Laws without Reſtrictions; this indeed is their Maſter-piece to bring in <hi>Stuarts</hi> Family; it being viſible, that by ſuch an Election few or none would be elected, but thoſe that would eſpouſe the <hi>Stuarts</hi> Intereſt, and ſo under a pretence of Law
+<pb n="8" facs="tcp:49125:5"/>and Equity, inthrone him, to the utter deſtruction of all the honeſt party, whom they brand with the Titles of Sectaries and Hereticks, thereby to render them more contemptible to the people in general, then the moſt vitious perſons in the land, whilſt they themſelves more juſtly deſerve thoſe titles, by differing more from the Precepts and Practices of Chriſt, the Apoſtles, and Primitive Churches. We are as much for a juſt Parliament Authority, as any people in the na<g ref="char:EOLhyphen"/>tion, and do declare from the ſincerity of our hearts, we cannot poſ<g ref="char:EOLhyphen"/>ſibly, in the leaſt, imagine how this nation can be ſecured in its liber<g ref="char:EOLhyphen"/>ties and proprieties, but by conſtant ſucceſſive Parliaments, limited both in time and power: for this being done, they will not raſhly thruſt the Nation into wars, knowing they muſt equally contribute to the charge, and not be in a capacity to enrich themſelves by great Offices, in proſecuting the ſame. Had the Nation been thus ſettled before (cauſeleſly) the Spaniſh deſtructive War was begun, it would in all probability, together with the miſeries that have thereby hap<g ref="char:EOLhyphen"/>pened to the Nation, have been prevented. Although Parliaments have been guilty of high miſcarriages, yet this is not a ground ſuffi<g ref="char:EOLhyphen"/>cient to lay them aſide, and center in a worſe way: it may as well be alledged, that all Magiſtracy hath generally made uſe of its power for their own Advantages; and therefore that all Magiſtracie and Government ought to be laid aſide, and all things left to run into Anarchy and Confuſion.</p>
+            <p>To conclude: We profeſs in the integrity of our hearts, we de<g ref="char:EOLhyphen"/>ſire a real Reformation in Church, according to the written word of God, and the example of the Primitive times; and a true firm and laſting ſettlement of the State, that we may have Rulers (as in the old time) that may execute juſtice and judgement, and be a terrour to thoſe that ſhall do evil, and a comfort to thoſe that do well. And we declare we have no deſigne nor deſire, in the leaſt meaſure, to ru<g ref="char:EOLhyphen"/>ine and deſtroy any of our fellow-Natives and Country-men; as is cleerly manifeſt, by what is afore ſpecified. And we do earneſtly deſire all Intereſts that are conſiſtent with common ſafety, and per<g ref="char:EOLhyphen"/>ſons that deſire to do as they would have others ſhould do to them, may conſent and agree with us herein; and we hope if the love of peace and ſettlement be not hid from their eyes, they ſpeedily will.</p>
+            <p>
+               <hi>THis Remonſtrance being read, and the Preſentors thereof with-drawn, they were a<g ref="char:EOLhyphen"/>gain called, to whom the Chair-man, Colonel</hi> Barrow, <hi>returned this Anſwer: That he was commanded to give the Remonſtrators the thanks of the committee, for their good affections to the Publick; and to let them know, they were proceeding on things of the ſame nature.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49125:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
